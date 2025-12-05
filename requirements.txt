@@ -1,0 +1,12 @@
+# Core Python libraries
+numpy
+pandas
+scikit-learn   # includes RandomForestRegressor
+matplotlib
+seaborn
+jupyter
+
+# Dataset
+# Place the dataset CSV file in the 'data/' folder with the following name:
+# data/ds_salaries.csv
+# Source: Kaggle - https://www.kaggle.com/datasets/rmisra/news-category-dataset (or your dataset source)
