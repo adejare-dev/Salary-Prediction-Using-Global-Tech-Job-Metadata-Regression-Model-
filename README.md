@@ -128,15 +128,5 @@ You can extend this project with:
 * Cross-validation for more stable metrics
 
 
-## Why This Project Is Useful
-
-It combines practical regression modeling with real job-market data.
-You get to practice:
-
-* Data preprocessing
-* Categorical encoding
-* Model training
-* Evaluation
-* Feature interpretation
 
 
